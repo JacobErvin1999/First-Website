@@ -1,0 +1,20 @@
+img {
+box-sizing: border-box;
+width: 40%;
+border: solid #5B6DCD 10px;
+padding: 2px;
+}
+
+.image_logo{
+    height: 40%;
+    width: 30%;
+}
+
+ul li {
+    display: inline-block;
+    list-style: none;
+}
+
+heading{
+    font-family: 'Satisfy', cursive;
+}
